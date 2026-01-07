@@ -1,2 +1,3 @@
 # m3u8-downloader.github.io
 https://m3u8-downloader.github.io
+https://vod1.cachefly.net/ZGlybWF0Y2g9dHJ1ZTtleHBpcmV0aW1lPTE3Njc4Mjk3OTMvMTY5NTE5ODJhYWU4ODg5MGE2ZmRiYTdjY2IyZmQ0NjFkMTU1MGM2MWY3ODYyMjgyM2M1NThhODRmODEwZDM5NQ==/vod/teamskeet/teenslovemoney/jade_jantzen/videos/full/AV1_ABR_MOBILE/AV1_720.m3u8
